@@ -1,0 +1,156 @@
+[02-Oct-2018 22:50:50 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:50:50 UTC] PHP Stack trace:
+[02-Oct-2018 22:50:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:50:50 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:50:50 UTC] PHP Stack trace:
+[02-Oct-2018 22:50:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:51:23 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:51:23 UTC] PHP Stack trace:
+[02-Oct-2018 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:51:23 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:51:23 UTC] PHP Stack trace:
+[02-Oct-2018 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:10 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:03:10 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:55 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:03:55 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:55 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:03:55 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:55 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:03:55 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:03:55 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:03:55 UTC] PHP Stack trace:
+[02-Oct-2018 23:03:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:04:07 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:04:07 UTC] PHP Stack trace:
+[02-Oct-2018 23:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:04:07 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:04:07 UTC] PHP Stack trace:
+[02-Oct-2018 23:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:04:07 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:04:07 UTC] PHP Stack trace:
+[02-Oct-2018 23:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:04:07 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:04:07 UTC] PHP Stack trace:
+[02-Oct-2018 23:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:09:25 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:25 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:09:25 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:25 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:09:26 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:26 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:09:26 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:26 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:09:27 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:09:27 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:09:27 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:09:27 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:09:27 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:09:27 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:09:27 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:09:27 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:09:31 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:31 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:09:31 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:09:31 UTC] PHP Stack trace:
+[02-Oct-2018 23:09:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:10:30 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:10:30 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:30 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:10:30 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:30 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:10:30 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:30 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:10:30 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:44 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:10:44 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:44 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:10:44 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:12:04 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:12:04 UTC] PHP Stack trace:
+[02-Oct-2018 23:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:12:04 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:12:04 UTC] PHP Stack trace:
+[02-Oct-2018 23:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:13:20 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:13:20 UTC] PHP Stack trace:
+[02-Oct-2018 23:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:13:20 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:13:20 UTC] PHP Stack trace:
+[02-Oct-2018 23:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:13:21 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:13:21 UTC] PHP Stack trace:
+[02-Oct-2018 23:13:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:13:21 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:13:21 UTC] PHP Stack trace:
+[02-Oct-2018 23:13:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:16:31 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:16:31 UTC] PHP Stack trace:
+[02-Oct-2018 23:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:16:31 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:16:31 UTC] PHP Stack trace:
+[02-Oct-2018 23:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:16:40 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:16:40 UTC] PHP Stack trace:
+[02-Oct-2018 23:16:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:16:40 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:16:40 UTC] PHP Stack trace:
+[02-Oct-2018 23:16:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[04-Oct-2018 23:13:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:13:41 UTC] PHP Stack trace:
+[04-Oct-2018 23:13:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:13:41 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 23:16:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mary1660'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:16:38 UTC] PHP Stack trace:
+[04-Oct-2018 23:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:16:38 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 23:16:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mary1660'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:16:39 UTC] PHP Stack trace:
+[04-Oct-2018 23:16:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:16:39 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 23:16:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mary1660'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:16:57 UTC] PHP Stack trace:
+[04-Oct-2018 23:16:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:16:57 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 23:16:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mary1660'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:16:58 UTC] PHP Stack trace:
+[04-Oct-2018 23:16:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:16:58 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 23:17:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mary1660'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 23:17:00 UTC] PHP Stack trace:
+[04-Oct-2018 23:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 23:17:00 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
